@@ -1,0 +1,23 @@
+{
+  "name": "car_rental_showcase_api",
+  "version": "1.0.0",
+  "description": "This is REST API for car rental showcase",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --runInBand --detectOpenHandles --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tianbuyung/car-rental-showcase-api.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js"
+  ],
+  "author": "Septian Maulana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tianbuyung/car-rental-showcase-api/issues"
+  },
+  "homepage": "https://github.com/tianbuyung/car-rental-showcase-api#readme"
+}
